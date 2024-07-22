@@ -85,7 +85,7 @@ regex.workspace = true
 release_channel = { path = "../release_channel" }
 rope = { path = "../rope" }
 rpc = { path = "../rpc" }
-rsa = "0.4"
+rsa = "0.9"
 rust-embed.workspace = true
 schemars.workspace = true
 search = { path = "../search" }

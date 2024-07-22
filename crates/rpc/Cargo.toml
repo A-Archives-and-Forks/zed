@@ -25,7 +25,7 @@ gpui = { path = "../gpui", optional = true }
 parking_lot.workspace = true
 prost.workspace = true
 rand.workspace = true
-rsa = "0.4"
+rsa = "0.9"
 serde.workspace = true
 serde_derive.workspace = true
 serde_json.workspace = true
