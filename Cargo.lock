@@ -12113,6 +12113,7 @@ dependencies = [
  "unindent",
  "url",
  "util",
+ "uuid",
  "which 6.0.3",
  "workspace-hack",
  "worktree",
@@ -19707,7 +19708,7 @@ dependencies = [
 
 [[package]]
 name = "zed"
-version = "0.190.0"
+version = "0.191.0"
 dependencies = [
  "activity_indicator",
  "agent",
